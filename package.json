@@ -1,0 +1,22 @@
+{
+  "name": "quask",
+  "version": "1.0.0",
+  "description": "Quask - Interactive Quiz and Learning Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "quiz",
+    "learning",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "formidable": "^3.5.4",
+    "pdf-parse": "^1.1.3",
+    "tesseract.js": "^5.1.1"
+  }
+}
